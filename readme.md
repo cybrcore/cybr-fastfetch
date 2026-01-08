@@ -16,6 +16,7 @@
 - Make sure kitty is installed: `sudo pacman -S kitty` and theme is applied
 - Make sure fish is installed: `sudo pacman -S fish` and theme is applied
 - See [Installation Guide](../INSTALL.md) if you haven't set up prerequisites yet
+- [Github](https://github.com/fastfetch-cli/fastfetch)
 
 ### 1. Create theme folder and file
 ```sh
