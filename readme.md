@@ -14,7 +14,7 @@ fc-cache -fv
 ```
 - Make sure kitty is installed: `sudo pacman -S kitty` and [cybrcore theme](https://github.com/cybrcore/cybr-kitty) is applied
 - Make sure broot is installed: `sudo pacman -S broot` and [cybrcore theme](https://github.com/cybrcore/cybr-fish) is applied
-- See [Installation Guide](https://github.com/cybrcore/cybrland/blob/main/INSTALL.md) if you`re coming from [cybr-hyprland](https://github.com/cybrcore/cybrland) and haven't set up prerequisites yet
+- See [Installation Guide](https://github.com/cybrcore/cybrdots/blob/main/INSTALL.md) if you're coming from [cybr-hyprland](https://github.com/cybrcore/cybr-hyprland) and haven't set up prerequisites yet
 - [fastfetch Github repo](https://github.com/fastfetch-cli/fastfetch)
 
 ## 1. Create theme folder and file
